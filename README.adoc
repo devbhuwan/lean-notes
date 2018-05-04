@@ -3,6 +3,8 @@
 
 . Machine Learning
 . Domain Driven Development
+. Kotlin Language
+. Acceptance Testing
 
 
 
