@@ -1,5 +1,4 @@
 == Lean Notes
----
 
 . Machine Learning
 . Domain Driven Development
