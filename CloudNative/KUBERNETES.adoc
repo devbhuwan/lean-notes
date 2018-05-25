@@ -1,0 +1,2 @@
+- 2018-05-25
+    1. https://speakerdeck.com/luxas/what-does-production-ready-really-mean-for-a-kubernetes-cluster
