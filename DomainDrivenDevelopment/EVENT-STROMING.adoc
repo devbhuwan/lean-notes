@@ -1,3 +1,4 @@
-https://speakerdeck.com/pillopl/state-or-events-which-shall-i-keep
-https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7
-https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd
+- 2018-05-25
+1. https://speakerdeck.com/pillopl/state-or-events-which-shall-i-keep
+2. https://blog.redelastic.com/corporate-arts-crafts-modelling-reactive-systems-with-event-storming-73c6236f5dd7
+3. https://spring.io/blog/2018/04/11/event-storming-and-spring-with-a-splash-of-ddd
